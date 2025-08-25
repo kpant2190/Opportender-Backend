@@ -1,0 +1,6 @@
+supabase==2.6.0
+gotrue==2.4.4
+pydantic==2.8.2
+websockets>=12.0
+playwright
+python-dotenv==1.0.1
